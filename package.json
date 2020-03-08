@@ -1,0 +1,24 @@
+{
+  "name": "youtube-download",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.20",
+    "fluent-ffmpeg": "^2.1.2",
+    "googleapis": "^47.0.0",
+    "move-file": "^1.2.0",
+    "youtube-api": "^2.0.10",
+    "youtube-dl": "^3.0.2",
+    "ytdl-core": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/gapi": "^0.0.39"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
